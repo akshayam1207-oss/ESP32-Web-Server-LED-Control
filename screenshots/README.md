@@ -1,1 +1,1 @@
-Project screenshots are stored in this folde
+Project screenshots are stored in this folder
